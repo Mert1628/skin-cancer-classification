@@ -18,4 +18,4 @@ Projenin detaylı analizlerine, eğitim süreçlerindeki kayıp/doğruluk (loss/
 ## 🛠️ Kurulum ve Kullanım
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/skin-cancer-classification.git](https://github.com/Mert1628/skin-cancer-classification.git)
+   git clone [https://github.com/Mert1628/skin-cancer-classification.git](https://github.com/Mert1628/skin-cancer-classification.git)
